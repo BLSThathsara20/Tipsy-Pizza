@@ -23,7 +23,7 @@
     <ScrollView
         android:id="@+id/scrollView2"
         android:layout_width="387dp"
-        android:layout_marginTop="7dp"
+        android:layout_marginTop="10dp"
         android:layout_height="685dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
